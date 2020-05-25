@@ -1,0 +1,4 @@
+[submodule "manonyold/vas"]
+	path = manonyold/vas
+	url = git@github.com:manonyold/vas.git
+	branch = 13.0
